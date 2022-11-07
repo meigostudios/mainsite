@@ -1,0 +1,2 @@
+# mainsite
+frinedsmine.com
